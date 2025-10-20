@@ -263,9 +263,9 @@
     "unified": "^9.0.0",
     "unist-builder": "^2.0.0",
     "webfontloader": "^1.6.28",
-    "webpack": "^4.28.3",
-    "webpack-cli": "^3.3.7",
-    "webpack-dev-server": "3.11.0",
+    "webpack": "^5.10.0",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "5.2.2",
     "webpack-merge": "^5.0.0",
     "yargs": "^17.0.0"
   },
